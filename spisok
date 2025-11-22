@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Źródła do prezentacji - Wzrost populacji</title>
+<style>
+body { font-family: Arial, sans-serif; background-color: #f0f8ff; margin:0; padding:20px; }
+h1 { text-align:center; color:#228B22; }
+ul { list-style-type:none; padding:0; }
+li { margin-bottom:15px; background-color:#e6ffe6; padding:10px; border-radius:8px; }
+a { color:#006400; text-decoration:none; font-weight:bold; }
+a:hover { text-decoration:underline; }
+</style>
+</head>
+<body>
+<h1>Źródła i dane do prezentacji: Wzrost populacji</h1>
+<ul>
+<li><a href="https://population.un.org" target="_blank">UN WPP (2024 revision)</a> – Oficjalne projekcje populacji 1950–2100.</li>
+<li><a href="https://ourworldindata.org/grapher/population.csv" target="_blank">Our World in Data - Population CSV</a> – Dane historyczne i projekcje populacji.</li>
+<li><a href="https://github.com/owid/energy-data" target="_blank">Our World in Data - Energy datasets</a> – Primary energy consumption, per-capita energy use.</li>
+<li><a href="https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions" target="_blank">Our World in Data - CO₂ emissions</a> – Roczne emisje i emisje per capita.</li>
+<li><a href="http://www.fao.org/aquastat/en/" target="_blank">FAO AQUASTAT</a> – Freshwater withdrawals, sektory (rolnictwo, przemysł, miejskie).</li>
+<li><a href="https://data.worldbank.org/indicator/IS.VEH.NVEH.P3" target="_blank">World Bank Data - Motor vehicles per 1000 people</a> – Globalny trend liczby pojazdów.</li>
+<li><a href="http://www.oica.net/category/production-statistics/" target="_blank">OICA - Production statistics</a> – Globalne statystyki produkcji samochodów.</li>
+<li><a href="https://public.wmo.int/" target="_blank">WMO - World Meteorological Organization</a> – Dane o rekordowych poziomach CO₂ i ekstremalnych zjawiskach pogodowych.</li>
+<li><a href="https://www.ipcc.ch/" target="_blank">IPCC - Intergovernmental Panel on Climate Change</a> – Raporty klimatyczne i prognozy wpływu zmian klimatu.</li>
+<li><a href="https://www.globalcarbonproject.org/" target="_blank">Global Carbon Project</a> – Dane o emisjach CO₂ i ich trendach globalnych.</li>
+<li><a href="https://www.reuters.com/" target="_blank">Reuters</a> – Aktualne wiadomości i raporty o rekordowych poziomach CO₂.</li>
+</ul>
+</body>
+</html>
